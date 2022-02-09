@@ -11,6 +11,11 @@ X-Carve-based three axis CNC milling machine
 
 ## 3D Models
 
+[Step Files](https://github.com/jduanen/X-Carve/tree/main/3dmodels)
+
+*TBD*
+
+
 ### Dust Shoe for DWP611
 
 ![DWP611 Dust Shoe](dustshoe.png)
