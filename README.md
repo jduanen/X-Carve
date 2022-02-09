@@ -1,6 +1,10 @@
 # X-Carve
 X-Carve-based three axis CNC milling machine
 
+![X-Carve](xcarve1.png)
+
+*TBD*
+
 ## GRBL Modifications
 
 *TBD*
@@ -8,6 +12,8 @@ X-Carve-based three axis CNC milling machine
 ## 3D Models
 
 ### Dust Shoe for DWP611
+
+![DWP611 Dust Shoe](dustshoe.png)
 
 *TBD*
 
